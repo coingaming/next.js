@@ -1,6 +1,7 @@
 {
   "name": "@heathmont/next",
   "version": "11.1.1-cg.0",
+  "private": true,
   "description": "The React Framework",
   "main": "./dist/server/next.js",
   "license": "MIT",
